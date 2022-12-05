@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Üzenetét rögzítettük</h1>
+    <!--<p action="#" th:action=@{/feldolgoz}" method="post" />
+    <p th:text="'Azonosító: ' + ${uj.id}" />
+    <p th:text="'Tartalom: ' + ${uj.tartalom}" />
+    <a th:href="/kapcsolat">Itt küldhet újabb üzenetet</a>-->
+    <form action="#" th:action="@{/feldolgoz}" th:object="${uzenet}" method="post">
+        <p><input type="text" th:field="*{uj.id}"  required/></p>
+        <p><input type="text" th:field="*{uj.tartalom}" placeholder="Cím" required/></p>
+    </form>
+</body>
+</html>

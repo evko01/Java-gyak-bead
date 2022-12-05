@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6839af31-a7ca-43ae-adc6-66bac19d28ca" name="Changes" comment="" />
+    <list default="true" id="6839af31-a7ca-43ae-adc6-66bac19d28ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Huzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Huzasrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Huzott.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Huzottrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Nyeremeny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Nyeremenyrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/UzenetekEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/Uzenetrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/securityconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/resources/templates/kapcsolat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/resources/templates/kapcsolatfeldolg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyak_bead/src/main/resources/templates/tabla.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyak_bead/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gyak_bead/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/GyakBeadApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gyak_bead/src/main/java/com/gyak_bead/GyakBeadApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyak_bead/src/main/resources/templates/nyito.html" beforeDir="false" afterPath="$PROJECT_DIR$/gyak_bead/src/main/resources/templates/nyito.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +44,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Adr/Documents/Egyetem/Java gyak repo/Java-gyak-bead/gyak_bead",
+    "last_opened_file_path": "C:/Users/Legion/OneDrive - Neumann János Egyetem/Asztal/Java-gyak-bead/gyak_bead",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "94460be9faf2ae446be7a055168878b8"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Legion\OneDrive - Neumann János Egyetem\Asztal\Java-gyak-bead\gyak_bead\src\main\java\com\gyak_bead" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +67,9 @@
       <workItem from="1667941895559" duration="51000" />
       <workItem from="1667980856695" duration="92000" />
       <workItem from="1667980966051" duration="434000" />
+      <workItem from="1668096649589" duration="92000" />
+      <workItem from="1669114342655" duration="36000" />
+      <workItem from="1669309329238" duration="3334000" />
     </task>
     <servers />
   </component>
